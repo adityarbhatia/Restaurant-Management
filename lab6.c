@@ -1,3 +1,10 @@
+/**************************
+ * Name: Adi Bhatia
+ * Project: Lab with Linked Lists
+ * Date: May 30, 2016
+ * 
+**************************/ 
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
